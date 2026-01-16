@@ -16,7 +16,7 @@ QUEUE_ID = "video-jobs"
 
 TASK_OIDC_SA = "717582954232-compute@developer.gserviceaccount.com"
 
-WATCH_FOLDER_ID = "1X0g5Z72BWZ7xPM0aN-nsYJTPs-LIXmmQ"
+WATCH_FOLDER_ID = "1gkM6oUvN9I9XMACVl1UyZpECkZJA81Ok"
 WORKER_BATCH_URL = "https://test-program-717582954232.europe-west1.run.app/extract-batch"
 
 # batch settings
